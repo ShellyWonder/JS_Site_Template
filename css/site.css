@@ -1,3 +1,27 @@
+:root {
+  --primary-color: #042541;
+  --secondary-color: #994e07;
+  --dark-color: #940606;
+  --white-color: #dff3e4;
+}
+body {
+  color: var(--dark-color);
+}
+
+nav {
+  background-color: var(--dark-color);
+}
+footer {
+  background-color: var(--dark-color);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--primary-color);
+}
 main > .container {
   padding: 60px 15px 0;
   margin-bottom: 5rem;
