@@ -13,6 +13,9 @@ nav {
 }
 footer {
   background-color: var(--dark-color);
+  padding-right: 1rem;
+}
+footer .social > a {
 }
 h1,
 h2,
