@@ -41,6 +41,13 @@ h6 {
   color: goldenrod;
 }
 
+code[class*="language-"],
+pre[class*="language-"] {
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
 main > .container {
   padding: 60px 15px 0;
   margin-bottom: 5rem;
