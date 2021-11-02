@@ -37,6 +37,10 @@ h6 {
 .cssicon {
   color: rgb(11, 82, 214);
 }
+.checklist > li i {
+  color: goldenrod;
+}
+
 main > .container {
   padding: 60px 15px 0;
   margin-bottom: 5rem;
