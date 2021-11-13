@@ -11,6 +11,14 @@ body {
 nav {
   background-color: var(--dark-color);
 }
+/*change logoFont with each project*/
+.logoFont {
+  font-family: ltc-broadway-engraved, sans-serif;
+
+  font-weight: 400;
+
+  font-style: normal;
+}
 footer {
   background-color: var(--dark-color);
   padding-right: 1rem;
