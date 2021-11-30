@@ -11,6 +11,10 @@ body {
 nav {
   background-color: var(--dark-color);
 }
+p,
+li {
+  color: black;
+}
 /*change logoFont with each project*/
 .logoFont {
   font-family: ltc-broadway-engraved, sans-serif;
